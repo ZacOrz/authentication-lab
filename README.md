@@ -9,9 +9,9 @@ HTTP authentication schemes provided in Django Rest Framework.
     * `git clone https://github.com/uofa-cmput404/authentication-lab.git`
 2. Change directory into this repository.
     * `cd authentication-lab`
-3. Initialize a Python3 virtual environment
+3. Initialize a Python3 virtual environment.
     * `virtualenv venv --python=python3`
-4. Activate the virtual environment and install the application dependencies
+4. Activate the virtual environment and install the application dependencies.
     ```bash
     source venv/bin/activate
     pip install -r requirements.txt
